@@ -1,0 +1,13 @@
+# Credentials & tokens
+credentials/
+token.pickle
+
+# Local state
+state.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large video files
+*.mp4
